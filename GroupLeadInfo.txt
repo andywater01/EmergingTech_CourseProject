@@ -1,0 +1,9 @@
+Andy Waterhouse: 3D Artist, Programmer (1st Month Lead)
+Ethan Kowalchuk: Game Designer (2nd Month Lead)
+Daye Fubara: Programmer (3rd Month Lead)
+
+
+Contributions:
+Andy Waterhouse: Abstract, Introduction, Conclusion
+Daye Fubara: Methods, Gantt Chart
+Ethan Kowalchuk: Results, Design Thinking Process
